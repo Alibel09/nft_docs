@@ -6,11 +6,11 @@ At present, mainstream NFT assets are mostly released and sold on Etherum / Bina
 
 Etherum wallet tutorial:
 
-<https://blog.mathwallet.xyz/?p=123>
+https://blog.mathwallet.org/?p=1314
 
 Binance Smart Chain tutorial:
 
-<https://blog.mathwallet.xyz/?p=3895>
+https://blog.mathwallet.org/?p=2287
 
 Note: Before purchasing NFT, you need to ensure that there are enough ETH/BNB assets in the wallet, and the corresponding assets can be purchased through a centralized exchange
 
